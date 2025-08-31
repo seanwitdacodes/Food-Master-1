@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{906CA34A-49DD-AA7C-642D-1B86FD6CA5E1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainMenu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/LevelScene.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="C4GD-TD" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MainMenu.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3b4d3911-48d9-4262-bb23-4354fd49ca20" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
